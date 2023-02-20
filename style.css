@@ -31,7 +31,8 @@ body{
     justify-content: center;
 }
 button {
-    
+    justify-content: center;
+    width: 90px;
     box-sizing: border-box;
     margin:10px;
     border: 0;
